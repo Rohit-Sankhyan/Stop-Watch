@@ -19,8 +19,6 @@ This stopwatch is a web application that allows users to measure time easily. It
 4. Click **Stop** to pause the timer.
 5. Click **Reset** to clear the timer and recorded laps.
 
-## License
-This project is licensed under the MIT License.
 
 ## Author
-Your Name
+ROHIT SHARMA
