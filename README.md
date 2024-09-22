@@ -22,3 +22,5 @@ This stopwatch is a web application that allows users to measure time easily. It
 
 ## Author
 ROHIT SHARMA
+## Website
+https://rohit-sankhyan.github.io/Stop-Watch/
